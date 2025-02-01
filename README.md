@@ -74,6 +74,6 @@ CSS y HTML Equipo ONE
 
 Paola Ivana Basualdo
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Paola Ivana Basualdo</sub>](https://github.com/PaolaBasualdo) | 
+| [<img src="https://avatars.githubusercontent.com/u/117169838?v=4" width=115><br><sub>Paola Ivana Basualdo</sub>](https://github.com/PaolaBasualdo) | 
 | :---: | 
 
