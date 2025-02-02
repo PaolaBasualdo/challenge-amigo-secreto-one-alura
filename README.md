@@ -1,4 +1,5 @@
-<h1 align="center"> Challenge Amigo Secreto </h1> ![Logo One](https://itconnect.lat/portal/wp-content/uploads/2023/03/Oracle-Next-Education--e1678304093153.png)
+<h1 align="center"> Challenge Amigo Secreto </h1>
+![Logo One](https://itconnect.lat/portal/wp-content/uploads/2023/03/Oracle-Next-Education--e1678304093153.png)
 <h2>Curso de Practicando Lógica de Programación: Challenge Amigo secreto - Programa ONE - Alura-Oracle<h2>
 
 <p align="left">
@@ -59,7 +60,7 @@ Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará a
 
 **Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
-## :Tecnologia utilizadas
+## Tecnologia utilizadas
 
 HTML CSS JAVASCRIPT
 
@@ -67,7 +68,7 @@ HTML CSS JAVASCRIPT
 
 CSS y HTML Equipo ONE
 
-## : Desarrolladora
+## Desarrolladora
 
 Paola Ivana Basualdo
 
