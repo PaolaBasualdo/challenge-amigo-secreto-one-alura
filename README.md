@@ -1,15 +1,12 @@
-<div align="center">
-  <h1 style="display: inline-block; margin-right: 20px;">Challenge Amigo Secreto</h1>
-  <img src="assets/amigo-secreto.png" alt="Logo del proyecto" width="100"/>
-</div>
+<h1 id="titulo-e-imagen-de-portada" align="center">Challenge Amigo Secreto <img src="assets/amigo-secreto.png" alt="Logo del proyecto" width="150"/></h1>
 
-<h2>Curso de Practicando Lógica de Programación: Challenge Amigo secreto - Programa ONE - Alura-Oracle<h2>
+<h2>Curso de Practicando Lógica de Programación: Challenge Amigo secreto - Programa ONE - Alura - Oracle<h2>
 
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
+</p>
 
-##Índice
+## Indice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
@@ -34,6 +31,10 @@
 * [Licencia](#licencia)
 
 *[Conclusión](#conclusión)
+
+
+
+
 
 Descripcion: desarrollo de una aplicacion, Amigo Secreto, que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
