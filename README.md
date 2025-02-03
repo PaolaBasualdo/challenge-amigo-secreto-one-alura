@@ -1,7 +1,7 @@
 <h1 id="titulo-e-imagen-de-portada" align="center">
   Challenge Amigo Secreto  
   <br>
-  <img src="assets/amigo-secreto.png" alt="Logo del proyecto" width="200"/>
+  <img src="assets/amigo-secreto.png" alt="Logo del proyecto" width="400"/>
 </h1>
 
 <h2 align="center">
@@ -23,6 +23,7 @@
 - [Descripción del proyecto](#-descripción-del-proyecto)
 - [Estado del proyecto](#-estado-del-proyecto)
 - [Características de la aplicación](#-características-de-la-aplicación)
+  - [Funcionalidades del proyecto](#-funcionalidades-del-proyecto)
 - [Acceso al proyecto](#-acceso-al-proyecto)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Personas contribuyentes](#-personas-contribuyentes)
@@ -51,9 +52,9 @@ Desarrollo de una aplicación llamada **Amigo Secreto**, que permite a los usuar
 ## 🛠️ Características de la aplicación  
 
 <p align="center">
-  <img src="assets/1.png" alt="app" width="150" style="display: inline-block; margin-right: 10px;"/>
-  <img src="assets/2.png" alt="app" width="150" style="display: inline-block; margin-right: 10px;"/>
-  <img src="assets/3.png" alt="app" width="150" style="display: inline-block;"/>
+  <img src="assets/1.png" alt="app" width="300" style="display: inline-block; margin-right: 10px;"/>
+  <img src="assets/2.png" alt="app" width="300" style="display: inline-block; margin-right: 10px;"/>
+  <img src="assets/3.png" alt="app" width="300" style="display: inline-block;"/>
 </p>
 
 
