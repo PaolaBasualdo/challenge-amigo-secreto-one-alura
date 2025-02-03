@@ -22,11 +22,12 @@
 - [Índice](#-índice)
 - [Descripción del proyecto](#-descripción-del-proyecto)
 - [Estado del proyecto](#-estado-del-proyecto)
-- [Características de la aplicación](#-características-de-la-aplicación) 
+- [Características de la aplicación](#-características-de-la-aplicación-)
 - [Acceso al proyecto](#-acceso-al-proyecto)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Personas contribuyentes](#-personas-contribuyentes)
 - [Desarrolladora del proyecto](#-desarrolladora-del-proyecto)
+
 ---
 
 ## 📖 Descripción del proyecto
@@ -48,6 +49,13 @@ Desarrollo de una aplicación llamada **Amigo Secreto**, que permite a los usuar
 ---
 
 ## 🛠️ Características de la aplicación  
+
+<p align="center">
+  <img src="assets/1.png" alt="app" width="100" style="display: inline-block; margin-right: 10px;"/>
+  <img src="assets/2.png" alt="app" width="100" style="display: inline-block; margin-right: 10px;"/>
+  <img src="assets/3.png" alt="app" width="100" style="display: inline-block;"/>
+</p>
+
 
 ### 🔧 Funcionalidades del proyecto  
 
@@ -99,4 +107,3 @@ Desarrollo de una aplicación llamada **Amigo Secreto**, que permite a los usuar
 ---
 
 📌 *Proyecto realizado como parte del curso de lógica de programación en el Programa ONE de Alura y Oracle.*  
-
