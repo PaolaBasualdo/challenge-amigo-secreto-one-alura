@@ -9,7 +9,7 @@
   Challenge Amigo Secreto - Programa ONE - Alura - Oracle
 </h2>
 <p align="center">
-  <img src="https://itconnect.lat/portal/wp-content/uploads/2023/03/Oracle-Next-Education--e1678304093153.png" alt="app" width="280" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://itconnect.lat/portal/wp-content/uploads/2023/03/Oracle-Next-Education--e1678304093153.png" alt="app" width="280" style="display: inline-block; margin-right: 40px;"/>
   <img src="https://raw.githubusercontent.com/joshuaFrias95/Encriptador-Alura-Oracle-ONE/main/img/readme/aluraoracle.png" alt="app" width="280" style="display: inline-block; "/>
  </p>
 
