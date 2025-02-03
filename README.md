@@ -1,5 +1,8 @@
-<h1 align="center"> Challenge Amigo Secreto </h1>
-![Logo One](https://itconnect.lat/portal/wp-content/uploads/2023/03/Oracle-Next-Education--e1678304093153.png)
+<div align="center">
+  <h1 style="display: inline-block; margin-right: 20px;">Challenge Amigo Secreto</h1>
+  <img src="assets/amigo-secreto.png" alt="Logo del proyecto" width="100"/>
+</div>
+
 <h2>Curso de Practicando Lógica de Programación: Challenge Amigo secreto - Programa ONE - Alura-Oracle<h2>
 
 <p align="left">
@@ -74,6 +77,8 @@ Limpiar el campo de entrada: Después de añadir el nombre, restablecer el campo
 **Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
 
 \## 🛠️ Abre y ejecuta el proyecto
+
+(https://paolabasualdo.github.io/challenge-amigo-secreto-one-alura/)
 
 **Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
