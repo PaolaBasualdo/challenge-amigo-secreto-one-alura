@@ -52,9 +52,9 @@ Desarrollo de una aplicación llamada **Amigo Secreto**, que permite a los usuar
 ## 🛠️ Características de la aplicación  
 
 <p align="center">
-  <img src="assets/1.png" alt="app" width="300" style="display: inline-block; margin-right: 10px;"/>
-  <img src="assets/2.png" alt="app" width="300" style="display: inline-block; margin-right: 10px;"/>
-  <img src="assets/3.png" alt="app" width="300" style="display: inline-block;"/>
+  <img src="assets/1.png" alt="app" width="280" style="display: inline-block; margin-right: 10px;"/>
+  <img src="assets/2.png" alt="app" width="280" style="display: inline-block; margin-right: 10px;"/>
+  <img src="assets/3.png" alt="app" width="280" style="display: inline-block;"/>
 </p>
 
 
