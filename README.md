@@ -54,6 +54,23 @@ Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del 
 Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 \## 📁 Acceso al proyecto
 
+/*Implementa una función para agregar amigos
+
+Desarrolla una función, que permita al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos creada anteriormente.
+
+Tareas específicas:
+
+
+
+Capturar el valor del campo de entrada: Utilizar document.getElementById o document.querySelector para obtener el texto ingresado por el usuario.
+
+Validar la entrada: Implementar una validación para asegurarse de que el campo no esté vacío. Si está vacío, mostrar un alert con un mensaje de error: "Por favor, inserte un nombre."
+
+Actualizar el array de amigos: Si el valor es válido, añadirlo al arreglo que almacena los nombre de amigos usando el método.push().
+
+Limpiar el campo de entrada: Después de añadir el nombre, restablecer el campo de texto a una cadena vacía.*/
+
+
 **Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
 
 \## 🛠️ Abre y ejecuta el proyecto
