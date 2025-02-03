@@ -1,5 +1,3 @@
-//Inicia declarando una variable de tipo array, que almacenará los nombres de los amigos ingresados.
-
 let amigos = [];
 let amigo;
 let indice;
@@ -42,7 +40,10 @@ function limpiarCampo(){
 
 function sortearAmigo(){
     if (amigos.length !=0){
-        indice =Math.floor(Math.random())*amigos.length+1
+        indice =Math.floor(Math.random()*amigos.length);
+        console.log(indice);
+    }else{
+        alert('La lista de amligos esta vacia');
     }
     resultado = document.getElementById('resultado');
     resultado.innerHTML= amigos[indice];
@@ -50,19 +51,7 @@ function sortearAmigo(){
 
 
 
-/*Tu código está bien estructurado y sigue la lógica del enunciado, pero hay algunos errores y mejoras que podrías hacer:
-
-Errores y mejoras
-Error en el índice aleatorio en sortearAmigo()
-
-Math.floor(Math.random()) * amigos.length + 1 siempre da 0 porque Math.random() devuelve un número entre 0 y 1, por lo que al hacer Math.floor(0), el resultado es siempre 0.
-La forma correcta es:
-js
-Copiar
-Editar
-indice = Math.floor(Math.random() * amigos.length);
-Corrección en updateListaAmigos()
-
+/*
 En lugar de modificar innerHTML dentro del bucle (lo que puede ser ineficiente), sería mejor usar createElement() y appendChild(), pero si quieres mantener innerHTML, sería mejor usar map() y join(''):
 js
 Copiar
@@ -135,70 +124,7 @@ Si el índice calculado es incorrecto, intentar acceder a amigos[indice] puede c
 Código corregido:
 Aquí tienes la versión corregida de tu código:
 
-javascript
-Copy
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-⌄
-⌄
-⌄
-⌄
-⌄
-⌄
-⌄
+
 let amigos = [];
 let amigo;
 let indice;
