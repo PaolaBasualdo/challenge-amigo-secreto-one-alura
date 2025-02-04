@@ -14,7 +14,7 @@ function agregarAmigo() {
     amigos.push(amigo);
     limpiarCampo();
     updateListaAmigos();
-    console.log(amigos);
+    
 }
 
 function updateListaAmigos() { 
@@ -44,6 +44,7 @@ function sortearAmigo(){
         console.log(indice);
     }else{
         alert('La lista de amligos esta vacia');
+        return
     }
     resultado = document.getElementById('resultado');
     resultado.innerHTML= amigos[indice];
