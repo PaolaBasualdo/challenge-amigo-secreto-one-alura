@@ -60,17 +60,23 @@ Desarrollo de una aplicación llamada **Amigo Secreto**, que permite a los usuar
 ### 🔧 Funcionalidades del proyecto  
 
 ✅ **Agregar nombres:** Los usuarios ingresarán un nombre en un campo de texto y lo añadirán a una lista visible mediante un botón **"Adicionar"**.  
+
 <p align="center">
-  <img src="assets/1.png" alt="app" width="280" />
+  <img src="assets/1.png" alt="app" width="400" />
 </p>
+
 ✅ **Validación de entrada:** Si el campo de texto está vacío, el programa mostrará una alerta solicitando un nombre válido. 
+
 <p align="center">
-   <img src="assets/2.png" alt="app" width="280" />
+   <img src="assets/2.png" alt="app" width="400" />
 </p>
+
 ✅ **Visualización de la lista:** Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+
 <p align="center">
-   <img src="assets/3.png" alt="app" width="280" />
+   <img src="assets/3.png" alt="app" width="400" />
 </p>
+
 ✅ **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, se seleccionará aleatoriamente un nombre de la lista y se mostrará en la pantalla.  
 
 ---
